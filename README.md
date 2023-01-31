@@ -1,6 +1,5 @@
 
-
-[!altimg][https://github.com/bartektenDev/SSHRD-MakerApp-for-MacOS/blob/main/demoimg.png]
+![Alt text](https://github.com/bartektenDev/SSHRD-MakerApp-for-MacOS/blob/main/demoimg.png "SSHRD Maker 1.0 beta")
 
 # SSHRD Maker App for MacOS
 Made with love from @ios_euphoria and @dedbeddedbed
