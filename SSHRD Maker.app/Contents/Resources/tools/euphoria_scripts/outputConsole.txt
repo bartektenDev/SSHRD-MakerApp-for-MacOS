@@ -1,0 +1,3 @@
+PRODUCT: iPad 2,5
+NAME: iPad
+MODE: DFU

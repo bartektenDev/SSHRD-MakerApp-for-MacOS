@@ -1,0 +1,6 @@
+[*] Cleaning up work directory
+img4tool version: 0.197-aca6cf005c94caf135023263cbb5c61a0081804f
+Compiled with plist: YES
+Found IM4R extracting generator: ok
+Saved IM4M to dumped.shsh
+[*] Onboard blobs should have dumped to the dumped.shsh file
